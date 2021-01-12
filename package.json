@@ -1,14 +1,24 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "<h1 align=\"center\"> Note Taker </h1>",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esober101/note-taker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esober101/note-taker/issues"
+  },
+  "homepage": "https://github.com/esober101/note-taker#readme"
 }
