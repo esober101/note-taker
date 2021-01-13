@@ -20,7 +20,7 @@ npm install node and npm install express
 https://immense-shore-55105.herokuapp.com/
 
 ## Test
-Run node server and open localhost:3000
+Run node server and open localhost:3001
 
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-blue)
